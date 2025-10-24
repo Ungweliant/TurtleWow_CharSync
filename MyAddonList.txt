@@ -20,3 +20,12 @@ https://github.com/pepopo978/BetterCharacterStats
 https://github.com/absir/Bagshui
 https://github.com/jrc13245/SuperCleveRoidMacros
 https://github.com/Otari98/_LazyPig
+https://github.com/Warlockbugs/impulse-booster
+https://github.com/pepopo978/Cursive
+
+-------not synced yet
+https://github.com/pepopo978/Cursive
+https://github.com/tilare/MessageBox
+
+------ not sure if to keep
+https://github.com/refaim/ItemTooltipIcons
